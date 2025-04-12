@@ -28,3 +28,5 @@ long long bigmod(long long x,long long y,long long z)
         return ((x%z)*(bigmod(x,y-1,z)))%z;
     }
 }
+
+// Modex 

@@ -7,3 +7,5 @@ int main()
         cout<<2*v*t<<endl;
     }
 }
+
+// Back to high school physics

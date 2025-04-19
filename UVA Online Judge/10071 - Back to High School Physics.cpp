@@ -8,4 +8,4 @@ int main()
     }
 }
 
-// Back to high school physics
+// Back to high School Physics

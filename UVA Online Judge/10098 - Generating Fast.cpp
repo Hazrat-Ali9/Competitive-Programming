@@ -26,3 +26,4 @@ int main()
     }
 }
 
+// Generating Fast

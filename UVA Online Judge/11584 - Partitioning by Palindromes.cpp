@@ -56,4 +56,4 @@ int main()
     }
     return 0;
 }
-
+//Partitioning by Palindromes

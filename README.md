@@ -2,4 +2,4 @@
 
 # Programmer || Software Engineering
 
-[MIT License](LICENSE)
+[MIT License](LICENCE)
